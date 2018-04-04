@@ -1,0 +1,52 @@
+{
+  "name": "tokipona",
+  "version": "1.0.0",
+  "description": "tokipona dictionary",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zettamax/tokipona.git"
+  },
+  "keywords": [
+    "tokipona",
+    "dictionary",
+    "constructed-language"
+  ],
+  "author": "zettamax@gmail.com",
+  "license": "SEE LICENCE IN LICENCE",
+  "bugs": {
+    "url": "https://github.com/zettamax/tokipona/issues"
+  },
+  "homepage": "./",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "clean": "rimraf docs/*",
+    "build": "yarn clean && webpack --config webpack.config.js"
+  },
+  "dependencies": {
+    "bootstrap-sass": "3.3.7",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.2.0",
+    "react-prop-types": "^0.4.0",
+    "react-router-dom": "^4.2.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.3",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-1": "^6.24.1",
+    "css-loader": "^0.28.10",
+    "file-loader": "^1.1.11",
+    "html-webpack-plugin": "^3.0.4",
+    "node-sass": "^4.8.3",
+    "react-hot-loader": "^4.0.1",
+    "rimraf": "^2.6.2",
+    "sass-loader": "^6.0.7",
+    "style-loader": "^0.19.1",
+    "url-loader": "^1.0.1",
+    "webpack": "^4.0.0",
+    "webpack-cli": "^2.0.14",
+    "webpack-dev-server": "^3.0.0"
+  }
+}
