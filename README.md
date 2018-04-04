@@ -1,0 +1,2 @@
+# tokipona
+tokipona dictionary
