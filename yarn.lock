@@ -1076,9 +1076,15 @@ boom@5.x.x:
   dependencies:
     hoek "4.x.x"
 
-bootstrap-sass@3.3.7:
+bootstrap-sass@3.3.7, bootstrap-sass@^3.3.6:
   version "3.3.7"
   resolved "https://registry.yarnpkg.com/bootstrap-sass/-/bootstrap-sass-3.3.7.tgz#6596c7ab40f6637393323ab0bc80d064fc630498"
+
+bootstrap-theuy-theme@^1.7.0:
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/bootstrap-theuy-theme/-/bootstrap-theuy-theme-1.7.0.tgz#ad5a9bac77d05fd218fdce673a4794ea6eac5f65"
+  dependencies:
+    bootstrap-sass "^3.3.6"
 
 brace-expansion@^1.1.7:
   version "1.1.11"

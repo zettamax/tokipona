@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "bootstrap-sass": "3.3.7",
+    "bootstrap-theuy-theme": "^1.7.0",
     "react": "^16.2.0",
     "react-bootstrap": "^0.32.1",
     "react-dom": "^16.2.0",
