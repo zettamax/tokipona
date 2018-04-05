@@ -1,0 +1,52 @@
+$navbar-border-radius: 0;
+
+.navbar-default label {
+  color: #fff;
+}
+
+$main-info-width: 40%;
+$descr-width: 100% - $main-info-width;
+
+.word {
+  margin-bottom: 4rem;
+  min-height: 22rem!important;
+}
+
+.main-info {
+  float: left;
+  width: $main-info-width;
+
+  .icon svg {
+    max-width: 100%;
+  }
+
+  .toki {
+    font-size: 250%;
+  }
+}
+
+.descr {
+  margin-left: $main-info-width;
+  width: $descr-width;
+  padding: 1rem;
+
+  .en, .ru {
+    margin-bottom: 1rem;
+
+    &:before {
+      display: block;
+      border-bottom: 1px solid;
+      color: lighten($text-color, 20%);
+    }
+  }
+  .en {
+    &:before {
+      content: 'English';
+    }
+  }
+  .ru {
+    &:before {
+      content: 'Русский';
+    }
+  }
+}
