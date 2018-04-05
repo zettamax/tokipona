@@ -1,14 +1,12 @@
 import React from 'react';
-import Well from 'react-bootstrap/lib/Well';
 
 import Layout from '../Layout/Layout';
+import Wordlist from "../Wordlist/Wordlist";
 
 const Home = () => {
     return (
         <Layout>
-            <Well>
-                Hello world!
-            </Well>
+            <Wordlist />
         </Layout>
     );
 };

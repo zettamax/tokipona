@@ -2,13 +2,8 @@ import React from 'react';
 
 import Grid from 'react-bootstrap/lib/Grid';
 import Navbar from 'react-bootstrap/lib/Navbar';
-import Nav from 'react-bootstrap/lib/Nav';
-import NavItem from 'react-bootstrap/lib/NavItem';
-import Button from 'react-bootstrap/lib/Button';
-import Form from 'react-bootstrap/lib/Form';
-import FormGroup from 'react-bootstrap/lib/FormGroup';
-import ControlLabel from 'react-bootstrap/lib/ControlLabel';
-import FormControl from 'react-bootstrap/lib/FormControl';
+
+import Search from '../Search/Search';
 
 const Layout = ({ children }) => {
     return (
@@ -21,14 +16,7 @@ const Layout = ({ children }) => {
                     <Navbar.Toggle />
                 </Navbar.Header>
                 <Navbar.Collapse>
-                    <Navbar.Form>
-                        <Form inline>
-                            <FormGroup controlId="query">
-                                <ControlLabel>Filter:</ControlLabel>{' '}
-                                <FormControl type="text" placeholder="some word..." autoFocus />
-                            </FormGroup>{' '}
-                        </Form>
-                    </Navbar.Form>
+                    <Search />
                 </Navbar.Collapse>
             </Navbar>
             <Grid>
