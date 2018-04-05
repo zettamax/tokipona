@@ -1,0 +1,863 @@
+[
+  {
+    "en": "well! ha! o! oh!",
+    "it": "bene! ah! oh! oh!",
+    "toki": "a",
+    "ru": "а! ха! о! ой!",
+    "image": "a"
+  },
+  {
+    "en": "unpleasant animal, reptile, reptile",
+    "it": "animale sgradevole, rettile, rettile",
+    "toki": "akesi",
+    "ru": "неприятное животное, рептилия, пресмыкающееся",
+    "image": "akesi"
+  },
+  {
+    "en": "No, no, non, nothing negative, zero, no!",
+    "it": "No, no, non, nulla di negativo, pari a zero, no!",
+    "toki": "ala",
+    "ru": "не, нет, не-, ничего, отрицание, ноль, нет!",
+    "image": "ala"
+  },
+  {
+    "en": "all, every, life, the universe, all, each, whole, entire",
+    "it": "tutto, ogni, la vita, l'universo, tutto, ogni, tutto, intero",
+    "toki": "ali, ale ",
+    "ru": "всё, каждое, жизнь, вселенная, все, каждый, целый, полный",
+    "image": "ali-ale"
+  },
+  {
+    "en": "bottom, lower portion below, a floor, below the bottom of lower down",
+    "it": "inferiore, parte inferiore sotto, un pavimento, sotto il fondo piu in basso",
+    "toki": "anpa",
+    "ru": "низ, нижняя часть, под, пол, ниже, низ, ниже, вниз",
+    "image": "anpa"
+  },
+  {
+    "en": "contrast, great, other, otherwise, change, change",
+    "it": "contrasto, grande, altri, in caso contrario, il cambiamento, il cambiamento",
+    "toki": "ante",
+    "ru": "отличие, отличный, другой, иначе, изменить, сменить",
+    "image": "ante"
+  },
+  {
+    "en": "or",
+    "it": "o",
+    "toki": "anu",
+    "ru": "или",
+    "image": "anu"
+  },
+  {
+    "en": "stay, wait, stay, store remaining, fixed, permanent, sedentary, sedentary",
+    "it": "stare, attendere, stare, magazzini rimanente, fisso, permanente, sedentario, sedentario",
+    "toki": "awen",
+    "ru": "оставаться, ждать, пребывать, хранить, оставшийся, неподвижный, постоянный, сидячий, оседлый",
+    "image": "awen"
+  },
+  {
+    "en": "divides the predicate and addition",
+    "it": "divide il predicato e aggiunta",
+    "toki": "e",
+    "ru": "разделяет сказуемое и дополнение",
+    "image": "e"
+  },
+  {
+    "en": "and",
+    "it": "e",
+    "toki": "en",
+    "ru": "и",
+    "image": "en"
+  },
+  {
+    "en": "thing, something, an object made out of something, to embody",
+    "it": "cosa, una cosa, un oggetto fatto di qualcosa, di incarnare",
+    "toki": "ijo",
+    "ru": "вещь, что-то, объект, из чего-то, воплощать",
+    "image": "ijo"
+  },
+  {
+    "en": "bad, negative, wrong, evil, too complicated, (figuratively) the patient, sorry! alas! harmful, useless, anger, do bad, to worsen, cause negative effects to be bad",
+    "it": "cattivo, negativo, sbagliato, il male, troppo complicato, (in senso figurato) il paziente, mi dispiace! ahime! dannoso, inutile, rabbia, fare il male, a peggiorare, causare effetti negativi a essere cattivo",
+    "toki": "ike",
+    "ru": "плохой, отрицательный, неправильный, злой, слишком сложный, (образно) больной,жаль! увы! вредность, негодность, злость, сделать плохим, ухудшить, вызвать негативный эффект, быть плохим",
+    "image": "ike"
+  },
+  {
+    "en": "instrument, apparatus, device, machine, apparatus, machine, device; thing ispolzemaya for a particular purpose",
+    "it": "strumento, apparecchio, dispositivo, macchina, apparecchio, macchina, dispositivo; cosa ispolzemaya per un particolare scopo",
+    "toki": "ilo",
+    "ru": "инструмент, устройство, приспособление, механизм, аппарат, машина, прибор; вещь, использемая для определённой цели",
+    "image": "ilo"
+  },
+  {
+    "en": "inside, the inner world, the center, the stomach, stomach, inner",
+    "it": "dentro, il mondo interiore, il centro, lo stomaco, stomaco, interiore",
+    "toki": "insa",
+    "ru": "внутри, внутренний мир, центр, живот, желудок, внутренний",
+    "image": "insa"
+  },
+  {
+    "en": "dirty, rude, nasty, dirt, pollution, litter, abuse, pollute, dirty, yuck! ew! yuck!",
+    "it": "sporco, maleducato, brutto, sporco, l'inquinamento, i rifiuti, l'abuso, inquinare, sporco, puah! ew! puah!",
+    "toki": "jaki",
+    "ru": "грязный, грубый, мерзкий, грязь, загрязнение, мусор, брань, загрязнять, грязный, фу! ew! yuck!",
+    "image": "jaki"
+  },
+  {
+    "en": "man, people, someone, man, someone, personal, personify, to humanize",
+    "it": "uomo, la gente, qualcuno, uomo, qualcuno, personale, personificare, di umanizzare",
+    "toki": "jan",
+    "ru": "человек, люди, кто-то, человеческий, чей-то, личный, олицетворять, очеловечивать",
+    "image": "jan"
+  },
+  {
+    "en": "yellow, light green",
+    "it": "giallo, verde chiaro",
+    "toki": "jelo",
+    "ru": "жёлтый, светло-зелёный",
+    "image": "jelo"
+  },
+  {
+    "en": "have, include, property, ownership, receive, take a",
+    "it": "hanno, includere, immobili, proprieta, ricevere, prendere una",
+    "toki": "jo",
+    "ru": "иметь, содержать, имущество, собственность, получить, взять",
+    "image": "jo"
+  },
+  {
+    "en": "fish, marine animal",
+    "it": "pesci, animali marini",
+    "toki": "kala",
+    "ru": "рыба, морское животное",
+    "image": "kala"
+  },
+  {
+    "en": "sound, noise, voice, noise, call play (an instrument)",
+    "it": "suono, rumore, voce, rumore, gioco chiamata (uno strumento)",
+    "toki": "kalama",
+    "ru": "звук, шум, голос, шуметь, звонить, играть (на инструменте)",
+    "image": "kalama"
+  },
+  {
+    "en": "approach, come, come, happen, start, lead to a state, event, accident, chance, arrival, start, offensive, future bring, call",
+    "it": "approccio, vieni, vieni, accadere, iniziare, portare a uno stato, eventi, incidenti, caso, arrivo, avviare, offensivo, futuro portare, chiamata",
+    "toki": "kama",
+    "ru": "подходить, приходить, прибывать, случаться, начинать, приводить в состояние, событие, происшествие, шанс, прибытие, начало, наступление, будущее, принести, вызвать",
+    "image": "kama"
+  },
+  {
+    "en": "plants, leaves, wood, grass",
+    "it": "piante, foglie, legno, erba",
+    "toki": "kasi",
+    "ru": "растение, лист, дерево, трава",
+    "image": "kasi"
+  },
+  {
+    "en": "to be able to allow, enable, opportunity, resolution, capacity, make it possible to allow, it is possible that...",
+    "it": "essere in grado di consentire, permettere, opportunita, risoluzione, capacita, permettere di permettere, e possibile che...",
+    "toki": "ken",
+    "ru": "мочь, разрешать, сделать возможным, возможность, разрешение, способность, сделать возможным, разрешить, возможно, что…",
+    "image": "ken"
+  },
+  {
+    "en": "use by",
+    "it": "da utilizzare",
+    "toki": "kepeken",
+    "ru": "использовать, с помощью",
+    "image": "kepeken"
+  },
+  {
+    "en": "fruit, fruit, vegetable, mushroom",
+    "it": "frutta, frutta, verdura, funghi",
+    "toki": "kili",
+    "ru": "плод, фрукт, овощ, гриб",
+    "image": "kili"
+  },
+  {
+    "en": "also, even (increases words, before the word)",
+    "it": "inoltre, anche (aumenta parole, prima della parola)",
+    "toki": "kin",
+    "ru": "также, даже, (усиливает слова, перед этим словом)",
+    "image": "kin"
+  },
+  {
+    "en": "hard, solid, stone, metal, hard thing, rock, stone, metal, earth",
+    "it": "duro, solido, pietra, metallo, cosa difficile, roccia, pietra, metallo, terra",
+    "toki": "kiwen",
+    "ru": "твёрдый, сплошной, каменный, металлический, твёрдая вещь, скала, камень, металл, земля",
+    "image": "kiwen"
+  },
+  {
+    "en": "viscous substance, rubber powder",
+    "it": "sostanza viscosa, polvere di gomma",
+    "toki": "ko",
+    "ru": "вязкая субстанция, резина, порошок",
+    "image": "ko"
+  },
+  {
+    "en": "air, wind, smell, soul, spirit, airy, ethereal, gaseous",
+    "it": "aria, il vento, l'odore, l'anima, lo spirito, arioso, etereo, gassoso",
+    "toki": "kon",
+    "ru": "воздух, ветер, запах, душа, дух, воздушный, неземной, газообразный",
+    "image": "kon"
+  },
+  {
+    "en": "color, paint, color, paint",
+    "it": "colori, vernici, colori, vernici",
+    "toki": "kule",
+    "ru": "цвет, краска, цветной, красить",
+    "image": "kule"
+  },
+  {
+    "en": "listening, hearing, hearing",
+    "it": "l'ascolto, l'udito, l'udito",
+    "toki": "kute",
+    "ru": "слушать, слуховой, слух",
+    "image": "kute"
+  },
+  {
+    "en": "group, community, sompaniya, people, general, public, joint",
+    "it": "gruppo, comunita, sompaniya, la gente, in generale, pubblico, giunto",
+    "toki": "kulupu",
+    "ru": "группа, сообщество, сомпания, люди, общий, публичный, совместный",
+    "image": "kulupu"
+  },
+  {
+    "en": "separator between an adverb phrase or sentence context and",
+    "it": "separatore tra una frase avverbio o contesto della frase e",
+    "toki": "la",
+    "ru": "разделитель между наречием или фразой контекста и предложением",
+    "image": "la"
+  },
+  {
+    "en": "sleep, rest, sleep, sleepy",
+    "it": "sonno, riposo, sonno, sonnolento",
+    "toki": "lape",
+    "ru": "сон, отдых, спать, сонный",
+    "image": "lape"
+  },
+  {
+    "en": "blue, blue-green",
+    "it": "blu, blu-verde",
+    "toki": "laso",
+    "ru": "синий, сине-зелёный",
+    "image": "laso"
+  },
+  {
+    "en": "head, mind, chief, leading, manage, supervise, guide",
+    "it": "testa, la mente, capo, leader, gestire, sorvegliare, guidare",
+    "toki": "lawa",
+    "ru": "голова, ум, главный, лидирующий, управлять, контролировать, направлять",
+    "image": "lawa"
+  },
+  {
+    "en": "clothing, fabric",
+    "it": "abbigliamento, tessuti",
+    "toki": "len",
+    "ru": "одежда, ткань",
+    "image": "len"
+  },
+  {
+    "en": "cold, cold, uncooked, cool, freeze",
+    "it": "freddo, freddo, crudo, freddo, congelare",
+    "toki": "lete",
+    "ru": "холод, холодный, неприготовленный, охладить, заморозить",
+    "image": "lete"
+  },
+  {
+    "en": "shares subject (except mi and sina) and predicate; also used to introduce a new verb to noun",
+    "it": "azioni oggetto (tranne km e sina) e il predicato; utilizzato anche per introdurre un nuovo verbo a sostantivo",
+    "toki": "li",
+    "ru": "разделяет подлежащее (кроме mi и sina) и сказуемое; также используется для представления нового глагола для существительного",
+    "image": "li"
+  },
+  {
+    "en": "small, young, little, small, reduce, reduce",
+    "it": "piccolo, giovane, piccolo, piccolo, ridurre, ridurre",
+    "toki": "lili",
+    "ru": "маленький, молодой, немного, мало, уменьшать, сокращать",
+    "image": "lili"
+  },
+  {
+    "en": "long, very thin object, rope, string, hair, chain",
+    "it": "oggetto lungo e molto sottile, corda, corda, capelli, catena",
+    "toki": "linja",
+    "ru": "длинный, очень тонкий предмет, верёвка, нитка, волос, цепь",
+    "image": "linja"
+  },
+  {
+    "en": "a flat, flexible object, paper, card, ticket",
+    "it": "un appartamento, oggetto flessibile, carta, cartoncino, biglietti",
+    "toki": "lipu",
+    "ru": "плоский и гибкий предмет, бумага, карточка, билет",
+    "image": "lipu"
+  },
+  {
+    "en": "red",
+    "it": "rosso",
+    "toki": "loje",
+    "ru": "красный",
+    "image": "loje"
+  },
+  {
+    "en": "be, located, be present, to exist, although",
+    "it": "essere, che si trova, essere presenti, di esistere, anche se",
+    "toki": "lon",
+    "ru": "быть в, располагаться, быть, присутствовать, существовать, правда",
+    "image": "lon"
+  },
+  {
+    "en": "hand",
+    "it": "mano",
+    "toki": "luka",
+    "ru": "рука",
+    "image": "luka"
+  },
+  {
+    "en": "look, see, watch, read, visual, visible",
+    "it": "guardare, vedere, guardare, leggere, visivo, visibile",
+    "toki": "lukin",
+    "ru": "смотреть, видеть, наблюдать, читать, визуальный, видимый",
+    "image": "lukin"
+  },
+  {
+    "en": "hole, a hole, window, door, passageway",
+    "it": "buco, un buco, finestra, porta, passaggio",
+    "toki": "lupa",
+    "ru": "дыра, отверстие, окно, дверь, проход",
+    "image": "lupa"
+  },
+  {
+    "en": "land, country, space, place",
+    "it": "terra, paese, spazio, luogo",
+    "toki": "ma",
+    "ru": "земля, страна, пространство, место",
+    "image": "ma"
+  },
+  {
+    "en": "parent, mother, father, parent, father's, mother's",
+    "it": "padre, madre, padre, madre, padre, madre di",
+    "toki": "mama",
+    "ru": "родитель, мама, папа, родительский, отцовский, материнский",
+    "image": "mama"
+  },
+  {
+    "en": "money, material possessions, wealth",
+    "it": "denaro, beni materiali, la ricchezza",
+    "toki": "mani",
+    "ru": "деньги, материальные блага, богатство",
+    "image": "mani"
+  },
+  {
+    "en": "woman, girl, wife, girlfriend, female",
+    "it": "donna, ragazza, moglie, fidanzata, femmina",
+    "toki": "meli",
+    "ru": "женщина, девочка, жена, подружка, женский",
+    "image": "meli"
+  },
+  {
+    "en": "I, we, my, our",
+    "it": "Io, noi, il mio, il nostro",
+    "toki": "mi",
+    "ru": "я, мы, мой, наш",
+    "image": "mi"
+  },
+  {
+    "en": "man, husband, boyfriend, male",
+    "it": "uomo, marito, fidanzato, maschio",
+    "toki": "mije",
+    "ru": "мужчина, муж, бойфренд, мужской",
+    "image": "mije"
+  },
+  {
+    "en": "eating, food, eat, drink, swallow, consume",
+    "it": "mangiare, cibo, mangiare, bere, inghiottire, consumare",
+    "toki": "moku",
+    "ru": "еда, питание, есть, пить, глотать, потреблять",
+    "image": "moku"
+  },
+  {
+    "en": "death, die, be dead, kill, dead, deadly, fatal",
+    "it": "morte, morire, essere morto, uccidere, morto, mortale, fatale",
+    "toki": "moli",
+    "ru": "смерть, умереть, быть мёртвым, убить, мёртвый, убийственный, фатальный",
+    "image": "moli"
+  },
+  {
+    "en": "back, back, back",
+    "it": "indietro, indietro, indietro",
+    "toki": "monsi",
+    "ru": "зад, сзади, задний",
+    "image": "monsi"
+  },
+  {
+    "en": "wow! meow! mu! (voice of the animal)",
+    "it": "Wow! Miao! mu! (Voice dell'animale)",
+    "toki": "mu",
+    "ru": "гав! мяу! му! (голос животного)",
+    "image": "mu"
+  },
+  {
+    "en": "moon, moon",
+    "it": "luna, luna",
+    "toki": "mun",
+    "ru": "луна, лунный",
+    "image": "mun"
+  },
+  {
+    "en": "entertainment, game, recreation, art, artful, funny, entertainment, play, have fun, cheer",
+    "it": "intrattenimento, gioco, ricreazione, arte, astuto, divertente, divertimento, giocare, divertirsi, allegria",
+    "toki": "musi",
+    "ru": "развлечение, игра, отдых, искусство, искусный, смешной, развлекательный, играть, развлекаться, развеселить",
+    "image": "musi"
+  },
+  {
+    "en": "many, somewhat longer, the number, amount, increase",
+    "it": "molti, un po 'piu a lungo, il numero, importo, aumento",
+    "toki": "mute",
+    "ru": "много, очень, несколько, больше, число, количество, увеличить",
+    "image": "mute"
+  },
+  {
+    "en": "number (ordinal)",
+    "it": "numero (ordinale)",
+    "toki": "nanpa",
+    "ru": "число (порядковое числительное)",
+    "image": "nanpa"
+  },
+  {
+    "en": "stupid, crazy, drunk, weird, maddening, kink",
+    "it": "stupido, pazzo, ubriaco, strano, esasperante, kink",
+    "toki": "nasa",
+    "ru": "тупой, сумасшедший, пьяный, странный, сводить с ума, чудить",
+    "image": "nasa"
+  },
+  {
+    "en": "road, path selection, the doctrine, the method",
+    "it": "strada, percorso di selezione, la dottrina, il metodo",
+    "toki": "nasin",
+    "ru": "дорога, путь, выбор, доктрина, метод",
+    "image": "nasin"
+  },
+  {
+    "en": "bump, bulge, nose, hill, mountain, button",
+    "it": "urto, rigonfiamento, naso, collina,, pulsante montagna",
+    "toki": "nena",
+    "ru": "шишка, выпуклость, нос, холм, гора, кнопка",
+    "image": "nena"
+  },
+  {
+    "en": "it, this",
+    "it": "esso, questo",
+    "toki": "ni",
+    "ru": "это,этот",
+    "image": "ni"
+  },
+  {
+    "en": "word, name",
+    "it": "parola, un nome",
+    "toki": "nimi",
+    "ru": "слово, имя",
+    "image": "nimi"
+  },
+  {
+    "en": "foot",
+    "it": "piede",
+    "toki": "noka",
+    "ru": "нога",
+    "image": "noka"
+  },
+  {
+    "en": "treatment or imperative, hey! (to attract someone's attention)",
+    "it": "trattamento o imperativo, hey! (Per attirare l'attenzione di qualcuno)",
+    "toki": "o",
+    "ru": "обращение или повелительное наклонение, эй! (привлечь чьё-то внимание)",
+    "image": "o"
+  },
+  {
+    "en": "eye",
+    "it": "occhio",
+    "toki": "oko",
+    "ru": "глаз",
+    "image": "oko"
+  },
+  {
+    "en": "love",
+    "it": "amore",
+    "toki": "olin",
+    "ru": "любовь",
+    "image": "olin"
+  },
+  {
+    "en": "he, she, they, that they, his, her, their",
+    "it": "lui, lei, loro, che, la, la, la loro",
+    "toki": "ona",
+    "ru": "он, она, оно, это, они, его, её, их",
+    "image": "ona"
+  },
+  {
+    "en": "open, turn",
+    "it": "aperto, turno",
+    "toki": "open",
+    "ru": "открыть, включить",
+    "image": "open"
+  },
+  {
+    "en": "mistake, accident, mistake, destruction, damage, broken, destroyed, broken, damage, collapse, break down, fall apart, damn!",
+    "it": "errore, incidente, errore, distruzione, danneggiamento, rotto, distrutto, rotto, danni, collasso, abbattere, cadere a pezzi, accidenti!",
+    "toki": "pakala",
+    "ru": "промах, происшествие, ошибка, разрушение, ущерб, сломанный, разрушить, сломать, повредить, разрушиться, сломаться, развалиться, чёрт!",
+    "image": "pakala"
+  },
+  {
+    "en": "Activity, activity, work, active, work, do, create, build, operate",
+    "it": "Attivita, attivita, lavoro, attivita, lavoro, fare, creare, costruire, operare",
+    "toki": "pali",
+    "ru": "активность, деятельность, работа, активный, рабочий, делать, создавать, строить, работать",
+    "image": "pali"
+  },
+  {
+    "en": "long, hard object, stick, branch",
+    "it": "lungo, oggetto duro, bastone, ramo",
+    "toki": "palisa",
+    "ru": "длинный, твёрдый объект, палка, ветка",
+    "image": "palisa"
+  },
+  {
+    "en": "give, put, send, produce, call (anything), transfer, exchange",
+    "it": "dare, mettere, trasmettere, produrre, chiamata (qualsiasi cosa), il trasferimento, lo scambio",
+    "toki": "pana",
+    "ru": "давать, класть, посылать, выпускать, вызывать (что-либо), передача, обмен",
+    "image": "pana"
+  },
+  {
+    "en": "of, of (a separator in compound words)",
+    "it": "di, di (un separatore di parole composte)",
+    "toki": "pi",
+    "ru": "из, of (разделитель в составных словах)",
+    "image": "pi"
+  },
+  {
+    "en": "feelings, emotions, feel, think about something, to feel, to touch",
+    "it": "sentimenti, le emozioni, si sentono, pensare a qualcosa, di sentire, di toccare",
+    "toki": "pilin",
+    "ru": "чувства, эмоции, чувствовать, думать о чём-либо, ощущать, трогать",
+    "image": "pilin"
+  },
+  {
+    "en": "black, dark, darkness, shadow, darken",
+    "it": "nero, scuro, oscurita, ombra, scurire",
+    "toki": "pimeja",
+    "ru": "чёрный, тёмный, темнота, тень, затемнять",
+    "image": "pimeja"
+  },
+  {
+    "en": "end, tip over, past, finish, zoom, turn off the",
+    "it": "fine, ribaltarsi, passato, finitura, zoom, spegnere la",
+    "toki": "pini",
+    "ru": "конец, кончик, законченный, прошлый, заканчивать, приближать, выключать",
+    "image": "pini"
+  },
+  {
+    "en": "insect, beetle, spider",
+    "it": "insetto, scarabeo, ragno",
+    "toki": "pipi",
+    "ru": "насекомое, жук, паук",
+    "image": "pipi"
+  },
+  {
+    "en": "side-by-side, edge, hip, almost adjacent",
+    "it": "side-by-side, bordo, anca, quasi adiacente",
+    "toki": "poka",
+    "ru": "сторона, бок, край, бедро, почти, соседний",
+    "image": "poka"
+  },
+  {
+    "en": "container, box, cup",
+    "it": "contenitore, scatola, coppa",
+    "toki": "poki",
+    "ru": "контейнер, коробка, чашка",
+    "image": "poki"
+  },
+  {
+    "en": "kindness, simplicity, positivity, good, simple, correct, well! thank you! OK! cool! improve, repair",
+    "it": "la gentilezza, la semplicita, positivita, buona, semplice, corretta, ben! grazie! Ok! cool! migliorare, riparazione",
+    "toki": "pona",
+    "ru": "доброта, простота, позитивность, хороший, простой, правильный, хорошо! спасибо! OK! круто! улучшать, ремонтировать",
+    "image": "pona"
+  },
+  {
+    "en": "same, similar, equal, as (compared)",
+    "it": "stesso, simile, uguale, come (rispetto)",
+    "toki": "sama",
+    "ru": "такой же, похожий, равный, как (в сравнении)",
+    "image": "sama"
+  },
+  {
+    "en": "fire, heat, hot, warm, cooked (about food), heat, cook",
+    "it": "fuoco, calore, caldo, caldo, cotto (di cibo), il calore, cucinare",
+    "toki": "seli",
+    "ru": "огонь, тепло, горячий, тёплый, приготовленный (о еде), нагревать, готовить",
+    "image": "seli"
+  },
+  {
+    "en": "surface, outside, leather, shell, form",
+    "it": "superficie, esterna, in pelle, conchiglia, forma",
+    "toki": "selo",
+    "ru": "поверхность, снаружи, кожа, раковина, форма",
+    "image": "selo"
+  },
+  {
+    "en": "what?",
+    "it": "che cosa?",
+    "toki": "seme",
+    "ru": "что?",
+    "image": "seme"
+  },
+  {
+    "en": "who?",
+    "it": "chi?",
+    "toki": "jan seme ",
+    "ru": "кто?",
+    "image": "seme"
+  },
+  {
+    "en": "where?",
+    "it": "dove?",
+    "toki": "lon seme",
+    "ru": "где?",
+    "image": "seme"
+  },
+  {
+    "en": "why?",
+    "it": "perche?",
+    "toki": "tan seme",
+    "ru": "почему?",
+    "image": "seme"
+  },
+  {
+    "en": "how?",
+    "it": "Come?",
+    "toki": "kepeken nasin seme",
+    "ru": "как? каким образом?",
+    "image": "seme"
+  },
+  {
+    "en": "top, above, on, top, sublime, religious, official",
+    "it": "top, sopra, il, alto, sublime, religioso, ufficiale",
+    "toki": "sewi",
+    "ru": "верх, над, на, верхний, возвышенный, религиозный, официальный",
+    "image": "sewi"
+  },
+  {
+    "en": "body, physical state",
+    "it": "corpo, stato fisico",
+    "toki": "sijelo",
+    "ru": "тело, физическое состояние",
+    "image": "sijelo"
+  },
+  {
+    "en": "circle, wheel, ring, ball, ball, round, periodic, circling",
+    "it": "cerchio, ruota, anello, palla, palla, rotondo, periodici, girando",
+    "toki": "sike",
+    "ru": "круг, колесо, кольцо, шар, мяч, круглый, периодический, кружить",
+    "image": "sike"
+  },
+  {
+    "en": "new, fresh, different, yet, update, refresh",
+    "it": "nuovo, fresco, diverso, eppure, aggiornamento, aggiornamento",
+    "toki": "sin",
+    "ru": "новый, свежий, другой, ещё,  обновить, освежить",
+    "image": "sin"
+  },
+  {
+    "en": "you, your",
+    "it": "voi, il vostro",
+    "toki": "sina",
+    "ru": "ты, твой",
+    "image": "sina"
+  },
+  {
+    "en": "front, chest, torso, face, wall",
+    "it": "fronte, al torace, torso, viso, parete",
+    "toki": "sinpin",
+    "ru": "перед, грудь, торс, лицо, стена",
+    "image": "sinpin"
+  },
+  {
+    "en": "image, picture, drawing, writing",
+    "it": "immagine, ritratto, disegno, scrittura",
+    "toki": "sitelen",
+    "ru": "изображение, картинка, рисовать, писать",
+    "image": "sitelen"
+  },
+  {
+    "en": "knowledge, wisdom, understanding, know, understand",
+    "it": "conoscenza, saggezza, comprensione, conoscere, capire",
+    "toki": "sona",
+    "ru": "знание, мудрость, понимание, знать, понимать",
+    "image": "sona"
+  },
+  {
+    "en": "learn",
+    "it": "imparare",
+    "toki": "kama sona",
+    "ru": "учиться",
+    "image": "sona"
+  },
+  {
+    "en": "animal, terrestrial mammal",
+    "it": "animale, mammifero terrestre",
+    "toki": "soweli",
+    "ru": "животное, наземное млекопитающее",
+    "image": "soweli"
+  },
+  {
+    "en": "big, tall, long, adult, important, increase, lengthen, size",
+    "it": "grande, alto, lungo, adulto, importante, crescita, allungare, dimensioni",
+    "toki": "suli",
+    "ru": "большой, высокий, длинный, взрослый, важный, увеличивать, удлиннять, размер",
+    "image": "suli"
+  },
+  {
+    "en": "sun, light",
+    "it": "sole, luce",
+    "toki": "suno",
+    "ru": "солнце, свет",
+    "image": "suno"
+  },
+  {
+    "en": "horizontal surface, furniture, table, chair, column, floor",
+    "it": "orizzontale di superficie, mobili, tavolo, sedia, colonna, piano",
+    "toki": "supa",
+    "ru": "горизонтальная поверхность, мебель, стол, стул, колонна, этаж",
+    "image": "supa"
+  },
+  {
+    "en": "candy, sweets, sweet, elegant, sweetening",
+    "it": "caramelle, dolci, dolce, elegante, addolcimento",
+    "toki": "suwi",
+    "ru": "конфетка, лакомство, сладкий, изящный, услащать",
+    "image": "suwi"
+  },
+  {
+    "en": "of, via, thanks, due, subsequently, after, source, the reason",
+    "it": "di, via, grazie, dovuto, successivamente, dopo, fonte, la ragione",
+    "toki": "tan",
+    "ru": "из, с помощью, благодаря, из-за, впоследствии, после, источник, причина",
+    "image": "tan"
+  },
+  {
+    "en": "unique, exceptional, but, but",
+    "it": "unico, eccezionale, ma, ma",
+    "toki": "taso",
+    "ru": "единственный, исключительный, но, однако",
+    "image": "taso"
+  },
+  {
+    "en": "to, for, towards (indicating purpose), to go, to walk, to travel, to move, to leave, moving, transportation, mobile, mobile, move, move",
+    "it": "a, per, verso (indicando scopo), di andare, di camminare, di viaggiare, di muoversi, di lasciare, in movimento, trasporto, mobili, mobili, spostare, spostare",
+    "toki": "tawa",
+    "ru": "в, для, по направлению к (указывает на цель действия), до, идти, гулять, путешествовать, двигаться, покидать, передвижение, транспортировка, передвижной, мобильный,  двигать, перемещать",
+    "image": "tawa"
+  },
+  {
+    "en": "water, liquid, juice, washed",
+    "it": "acqua, liquido, succo di frutta, lavato",
+    "toki": "telo",
+    "ru": "вода, жидкость, сок, мыть",
+    "image": "telo"
+  },
+  {
+    "en": "time, period, a time duration, the situation",
+    "it": "periodo, di tempo, una durata di tempo, la situazione",
+    "toki": "tenpo",
+    "ru": "время, период, момент, длительность, ситуация",
+    "image": "tenpo"
+  },
+  {
+    "en": "language, speaking, speech, communication, talking, verbal, say, chat, chat, hello! hello!",
+    "it": "linguaggio, parlare, discorso, comunicazione, parlare, verbale, per esempio, chat, chattare, ciao! Ciao!",
+    "toki": "toki",
+    "ru": "язык, разговор, речь, коммуникация, говорящий, вербальный, сказать, общаться, болтать, привет! здравствуй!",
+    "image": "toki"
+  },
+  {
+    "en": "room, space, house, room, building, structure, urban, home",
+    "it": "stanza, spazio, casa, stanza, costruzione, struttura, urbano, casa",
+    "toki": "tomo",
+    "ru": "помещение, пространство, дом, комната, здание, конструкция, городской, домашний",
+    "image": "tomo"
+  },
+  {
+    "en": "double, two, pair, share, separate",
+    "it": "doppio, due, coppia, condivisione, separata",
+    "toki": "tu",
+    "ru": "двойной, два, пара, разделять, отделять",
+    "image": "tu"
+  },
+  {
+    "en": "gender, sexuality, erotic, sex, sex",
+    "it": "genere, la sessualita, erotismo, sesso, sesso",
+    "toki": "unpa",
+    "ru": "пол, сексуальность, эротический, половой, заниматься сексом",
+    "image": "unpa"
+  },
+  {
+    "en": "mouth, oral, pronounced aloud, oral",
+    "it": "bocca, orale, pronunciato ad alta voce, per via orale",
+    "toki": "uta",
+    "ru": "рот, устный, произносимый вслух, оральный",
+    "image": "uta"
+  },
+  {
+    "en": "conflict, competition, fight, battle, war, attack, dispute, insult, abuse, udart, attack rival",
+    "it": "conflitto, competizione, lotta, battaglia, guerra, attacco, disputa, insulti, abusi, udart, attacco rivale",
+    "toki": "utala",
+    "ru": "конфликт, соревнование, схватка, бой, война, атака, спор, оскорбление, насилие, ударть, атаковать, соперничать",
+    "image": "utala"
+  },
+  {
+    "en": "white, light, white thing, white, purity",
+    "it": "bianco, luce, cosa bianca, bianco, purezza",
+    "toki": "walo",
+    "ru": "белый, светлый, белая вещь, белизна, чистота",
+    "image": "walo"
+  },
+  {
+    "en": "one, unit, element, of, particle, piece, combine",
+    "it": "uno, unita, elemento, di, particella, pezzo, combinare",
+    "toki": "wan",
+    "ru": "один, единица, элемент, часть, частица, кусок, объединить",
+    "image": "wan"
+  },
+  {
+    "en": "bird, animal with wings",
+    "it": "uccello, animale con le ali",
+    "toki": "waso",
+    "ru": "птица, животное с крыльями",
+    "image": "waso"
+  },
+  {
+    "en": "force, energy, powerful, intense, confident, strong, energetic, amplify, enhance, excite",
+    "it": "la forza, l'energia, potente, intenso, fiducioso, forte, energico, amplificare, aumentare, eccita",
+    "toki": "wawa",
+    "ru": "сила, энергия, мощный, интенсивный, уверенный, сильный, энергичный, усиливать, укреплять, возбуждать",
+    "image": "wawa"
+  },
+  {
+    "en": "far, missing, missing, no, throw it away, clean, free",
+    "it": "lontano, manca, manca, no, gettarlo via, pulito, libero",
+    "toki": "weka",
+    "ru": "далекий, отсутствующий, пропавший, отсутствие, выбросить, убрать, освободиться",
+    "image": "weka"
+  },
+  {
+    "en": "to want, to do in the future, the desire, the need, the will, the necessary",
+    "it": "a voler fare in futuro, il desiderio, il bisogno, la volonta, la necessaria",
+    "toki": "wile",
+    "ru": "хотеть, желать, сделать в будущем, желание, нужда, воля, необходимый",
+    "image": "wile"
+  }
+]
