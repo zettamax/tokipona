@@ -6,7 +6,7 @@ import Wordlist from "../Wordlist/Wordlist";
 const Home = () => {
     return (
         <Layout>
-            <Wordlist />
+            <Wordlist query={''} />
         </Layout>
     );
 };
