@@ -1,6 +1,7 @@
-const path = require("path");
+const path = require('path');
 const webpack = require('webpack');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const HardSourceWebpackPlugin = require('hard-source-webpack-plugin');
 const port = process.env.PORT || 3000;
 
 module.exports = {
@@ -9,7 +10,7 @@ module.exports = {
         app: './src/index.js'
     },
     output: {
-        path: path.join(process.cwd(), "docs"),
+        path: path.join(process.cwd(), 'docs'),
         filename: '[name].[hash].js'
     },
     devtool: 'inline-source-map',
@@ -63,7 +64,8 @@ module.exports = {
         new HtmlWebpackPlugin({
             favicon: 'favicon.ico',
             template: 'index.html'
-        })
+        }),
+        new HardSourceWebpackPlugin(),
     ],
     devServer: {
         host: '0.0.0.0',
