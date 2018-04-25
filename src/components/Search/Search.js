@@ -7,18 +7,8 @@ import ControlLabel from 'react-bootstrap/lib/ControlLabel';
 import FormControl from 'react-bootstrap/lib/FormControl';
 
 class Search extends React.Component {
-
-    constructor(props) {
-        super(props);
-        this.state = {value: ''};
-
-        this.handleChange = this.handleChange.bind(this);
-    }
-
-    componentDidMount() {}
-
     handleChange(e) {
-        this.setState({value: e.target.value});
+        this.props.updateQuery(e.target.value);
     }
 
     handleSubmit(e) {
@@ -33,7 +23,7 @@ class Search extends React.Component {
                         <FormGroup controlId="query">
                             <ControlLabel>Filter:</ControlLabel>{' '}
                             <FormControl type="text" placeholder="some word..." autoFocus
-                                         value={this.state.value} onChange={this.handleChange}/>
+                                         onChange={this.handleChange.bind(this)}/>
                         </FormGroup>
                     </Form>
                 </Navbar.Form>
