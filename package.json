@@ -18,7 +18,7 @@
   },
   "homepage": "./",
   "scripts": {
-    "start": "webpack-dev-server",
+    "start": "webpack-dev-server --inline",
     "clean": "rimraf docs/*",
     "build": "yarn clean && webpack --config webpack.config.js"
   },
